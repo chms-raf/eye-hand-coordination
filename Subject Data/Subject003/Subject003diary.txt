@@ -1,0 +1,12 @@
+Eye-Hand Coordination Experiment, Subject003:
+------------------------
+Filter Parameters:
+     r =      8
+     h =      10
+     th =     80
+     radius = 80
+------------------------
+Eye Alone Feedback: Accuracy of all reaches = 39.303601 ± 53.456533
+Eye Alone No Feedback: Accuracy of all reaches = 64.661857 ± 54.277164
+Eye Hand Feedback: Accuracy of all reaches = 52.240990 ± 77.043329
+Eye Hand No Feedback: Accuracy of all reaches = 65.039630 ± 57.968897

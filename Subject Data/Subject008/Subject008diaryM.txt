@@ -1,0 +1,19 @@
+Eye-Hand Coordination Experiment, Subject008:
+-----------------------------
+Parameters:
+Sampling Frequency = 100 Hz
+            radius = 110 mm
+Velocity Threshold =  10 cm/s
+-----------------------------
+Eye Alone Feedback (Eye): Error of all reaches = 5.869231 ± 4.775244
+Eye Alone No Feedback (Eye): Error of all reaches = 14.231525 ± 7.369772
+Eye Hand Feedback (Eye): Error of all reaches = 5.067450 ± 3.100297
+Eye Hand Feedback (Hand): Error of all reaches = 7.441008 ± 5.405888
+Eye Hand No Feedback (Eye): Error of all reaches = 25.048240 ± 13.124077
+Eye Hand No Feedback (Hand): Error of all reaches = 6.505139 ± 5.146450
+Error of all trial conditions (Eye) = 12.106771 ± 11.314172
+Error of all trial conditions (Hand) = 6.943205 ± 5.276100
+Error of Feedback conditions (Eye) = 5.472431 ± 4.043940
+Error of Feedback conditions (Hand) = 7.441008 ± 5.405888
+Error of No Feedback conditions (Eye) = 20.035616 ± 12.091139
+Error of No Feedback conditions (Hand) = 6.505139 ± 5.146450
